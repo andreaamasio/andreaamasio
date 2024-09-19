@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreaamasio
-- 👀 I’m interested in web development, data analysis and python programming language.
-- 🌱 I’m currently learning Html and CSS.
+- 👀 I’m interested in data analysis, python, HRIS, streetlfting.
+- 🌱 I’m currently SQL and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andrea.amasio@gmail.com.
 
