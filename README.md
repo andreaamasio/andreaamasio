@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreaamasio
-- 👀 I’m interested in data analysis, python, HRIS, streetlfting.
-- 🌱 I’m currently SQL and Python.
+- 👀 I’m interested in coding, data analysis, python, HRIS, streetlfting.
+- 🌱 I’m currently revising Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andrea.amasio@gmail.com.
 
